@@ -34,7 +34,7 @@ This starter includes a ReactJS application with Nest backend. Features:
 First clone the repository, cd into it and install dependencies:
 
 ```
-git clone https://github.com/ozgurrgul/ReactNestStarter.git
+git clone https://github.com/awesomedev82/react-nest-starter.git
 cd ReactNestStarter
 yarn
 lerna bootstrap # will install dependencies in each package
@@ -93,6 +93,6 @@ DATABASE_URL="file:./dev.db"
 
 ### Images
 
-- Login screen ![Login screen](https://github.com/ozgurrgul/ReactNestStarter/blob/main/images/1.png?raw=true)
+- Login screen ![Login screen](https://github.com/awesomedev82/react-nest-starter/blob/main/images/1.png?raw=true)
 
-- Dashboard screen ![Dashboard screen](https://github.com/ozgurrgul/ReactNestStarter/blob/main/images/2.png?raw=true)
+- Dashboard screen ![Dashboard screen](https://github.com/awesomedev82/react-nest-starter/blob/main/images/2.png?raw=true)
